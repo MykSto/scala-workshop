@@ -62,3 +62,15 @@ the
 firehouse!
 [Error] expected:
 The dog visited the firehouse! 
+()[Error] expected:
+mom
+()[Error] expected:
+dad
+()[Error] expected:
+street
+teerts[Error] expected:
+street
+true[Error] expected:
+false
+373.15[Error] expected:
+373.14
