@@ -74,8 +74,16 @@ class Temperature {
     else
       (current - 32.0) * 5.0/9.0
   }
-  def kelvin(): Double = {
+  def setKelvin(now: Double): Unit = {
+  	scale = "k"
+  	current = now
+  }
+  def getKelvin(): Double = {
+  	if(scale == "k"){
+  	 	current
+  	 } else {
   		current + 273.15
+  	}
   }
 }
 
@@ -85,6 +93,7 @@ temp.getFahrenheit() is 98.6
 temp.getCelsius is 37.0
 temp.setCelsius(100.0)
 temp.getFahrenheit is 212.0
-temp.kelvin is 373.15
+temp.getKelvin is 373.15
 
-/* EXERCISE 7 */
+/* EXERCISE 7 and 8 = TicTacToe*/
+
