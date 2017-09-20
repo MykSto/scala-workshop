@@ -74,3 +74,63 @@ true[Error] expected:
 false
 373.15[Error] expected:
 373.14
+successful move[Error] expected:
+invalid move
+successful move[Error] expected:
+invalid move
+invalid move[Error] expected:
+successful move
+successful move[Error] expected:
+invalid move
+false[Error] expected:
+true
+True[Error] expected:
+True!
+False[Error] expected:
+It's false
+Unknown15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Unknown 15[Error] expected:
+Unknown
+Main$$anon$1$Family@22555ebf[Error] expected:
+Dad
+2[Error] expected:
+4
+1[Error] expected:
+3
+Main$$anon$1$Cup2@1165b38[Error] expected:
+50
+Main$$anon$1$Cup2@1165b38[Error] expected:
+50
+50[Error] expected:
+100
+70[Error] expected:
+100
+70[Error] expected:
+100
+26[Error] expected:
+20
+6[Error] expected:
+4
+20[Error] expected:
+21
+6[Error] expected:
+4
+20[Error] expected:
+21
+Main$$anon$1$FlexibleFamily@702657cc[Error] expected:
+true
