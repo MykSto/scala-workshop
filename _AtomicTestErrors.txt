@@ -134,3 +134,299 @@ Main$$anon$1$Cup2@1165b38[Error] expected:
 21
 Main$$anon$1$FlexibleFamily@702657cc[Error] expected:
 true
+false[Error] expected:
+Earl Grey
+[Error] expected:
+0
+false[Error] expected:
+Earl Grey
+()[Error] expected:
+0
+false[Error] expected:
+Earl Grey
+false[Error] expected:
+0
+()[Error] expected:
+Earl Grey
+false[Error] expected:
+0
+()[Error] expected:
+Earl Grey
+()[Error] expected:
+0
+()[Error] expected:
+Earl Grey
+false[Error] expected:
+0
+()[Error] expected:
+Earl Grey
+false[Error] expected:
+0
+()[Error] expected:
+Earl Grey
+()[Error] expected:
+0
+()[Error] expected:
+Earl Grey
+false[Error] expected:
+0
+Earl Grey [Error] expected:
+Earl Grey
+false[Error] expected:
+0
+Earl Grey [Error] expected:
+Earl Grey
+false[Error] expected:
+0
+()[Error] expected:
+Earl Grey
+false[Error] expected:
+0
+Earl Grey [Error] expected:
+Earl Grey
+true[Error] expected:
+0
+Earl Grey [Error] expected:
+Earl Grey
+true[Error] expected:
+0
+Grey Joy[Error] expected:
+Earl Grey
+false[Error] expected:
+16
+Grey Joy[Error] expected:
+Earl Grey
+false[Error] expected:
+16
+false[Error] expected:
+16
+false[Error] expected:
+16
+()[Error] expected:
+16
+()[Error] expected:
+16
+()[Error] expected:
+16
+()[Error] expected:
+16
+()[Error] expected:
+16
+0[Error] expected:
+16
+Decafe with Lemon Zinger[Error] expected:
+Lemon Zinger decaf
+()[Error] expected:
+0
+()[Error] expected:
+0
+16[Error] expected:
+0
+Jasmine Green[Error] expected:
+Jasmine Green + sugar
+0[Error] expected:
+16
+Earl Grey milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+Lemon Zinger + decaf[Error] expected:
+Lemon Zinger decaf
+Jasmine Green[Error] expected:
+Jasmine Green + sugar
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+Lemon Zinger + decaf[Error] expected:
+Lemon Zinger decaf
+Lemon Zinger + decaf[Error] expected:
+Lemon Zinger decaf
+Grey Joy + sugar[Error] expected:
+Grey Joy
+0[Error] expected:
+16
+Grey Joy + sugar[Error] expected:
+Grey Joy
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+Grey Joy + sugar[Error] expected:
+Grey Joy
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+Grey Joy + sugar[Error] expected:
+Grey Joy
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+Earl Grey[Error] expected:
+Grey Joy
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+0[Error] expected:
+116
+0[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + sugar[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + sugar[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + sugar[Error] expected:
+Earl Grey
+Jasmine Green + milk + sugar[Error] expected:
+Jasmine Green + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+116[Error] expected:
+0
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+100[Error] expected:
+116
+116[Error] expected:
+16
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+Earl Grey + milk[Error] expected:
+Earl Grey + milk + sugar
+Lemon Zinger decaf[Error] expected:
+Lemon Zinger decafe
+0.0[Error] expected:
+2.0
+Unidentified[Error] expected:
+Unknown
+1.0[Error] expected:
+2.0
+Capacity: [Error] expected:
+Unknown
+0.0[Error] expected:
+1.0
+Unidentified[Error] expected:
+Unknown
+Capacity: [Error] expected:
+Unknown
+0.0[Error] expected:
+1.0
+2.0[Error] expected:
+1.0
+2.0[Error] expected:
+1.0
+5.0[Error] expected:
+2.0
+Wash used 2 bleach and 1 softner[Error] expected:
+Wash used 2 bleach and 1 fabric softener
+Wash used 2 bleach and 1 fabric softner[Error] expected:
+Wash used 2 bleach and 1 fabric softener
+0[Error] expected:
+45
+59[Error] expected:
+0
+29[Error] expected:
+0
+1[Error] expected:
+0
+-15[Error] expected:
+45
+0[Error] expected:
+45
+59[Error] expected:
+0
+29[Error] expected:
+0
+5[Error] expected:
+10
+20.0 + 110.0 + false + true[Error] expected:
+20.0 110.0 false true
+15.0 + 100.0 + true + true[Error] expected:
+15.0 100.0 true true
+Poof!  87 false true[Error] expected:
+Poof! 87 false true
+Poof!  25 true true[Error] expected:
+Poof! 25 true true
+20.0 110.0 false true[Error] expected:
+height: 20.0 weight: 110.0 happy: false painted: true
+15.0 100.0 true true[Error] expected:
+height: 15.0 weight: 100.0 true true
+20.0 110.0 false true[Error] expected:
+height: 20.0 weight: 110.0 happy: false painted: true
+15.0 100.0 true true[Error] expected:
+height: 15.0 weight: 100.0 true true
+20.0 110.0 false true[Error] expected:
+height: 20.0 weight: 110.0 happy: false painted: true
+15.0 100.0 true true[Error] expected:
+height: 15.0 weight: 100.0 true true
+height: 20.0 weight: 110.0 false true[Error] expected:
+height: 20.0 weight: 110.0 happy: false painted: true
